@@ -6,4 +6,6 @@ Please clone the folder to avoid path errors when accesseing the csv files in Re
 
 Within the pandas-challenge folder, there is the PyCitySchools folder which contains the Resources folder and PyCitySchools jupyter notebook with the assignment completed.
 
+Worked as a group with Sultan Raheem, Robert Molenda, Lucas Perez.
+
 I appreciate your time!
